@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eyerusalem-admassu/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eyerusad12@gmail.com) [![Github](https://img.shields.io/github/followers/Jadmassu?label=Follow&style=social)](https://github.com/Jadmassu)
 -->
-👋 Hello! I'm Eyerusalem Admassu
+I'm Eyerusalem Admassu
 
 🚀 Software Developer Specializing in Generative AI
 
