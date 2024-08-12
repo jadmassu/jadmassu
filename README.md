@@ -25,9 +25,9 @@ Feel free to explore my repositories and projects. If you'd like to collaborate 
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05126A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05126A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05126A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05126A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05126A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript%20-05126A?style=flat-square&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05126A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastApi-05126A?style=flat-square&logo=FastApi&color=353535) ![Bootstrap](https://img.shields.io/badge/-React%20-05126A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node-05126A?style=flat-square&logo=Node&color=353535)
 
-<div>
+ <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jadmassu&show_icons=true&locale=en&layout=compact" alt="Jadmassu" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Jadmassu&" alt="Jadmassu" />
+ <!-- <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Jadmassu&" alt="Jadmassu" /> -->
 </div>
 
 
